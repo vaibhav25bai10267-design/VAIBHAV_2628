@@ -1,7 +1,7 @@
 #Ordernow - Online Food Ordering System
 
 #GREETINGS!
-print("!!: Welcome to Ordernow :-!!")
+print("!!-: Welcome to Ordernow :-!!")
 
 #define the menu of restaurant
 menu = {
@@ -37,3 +37,4 @@ else:
 print(f"your order total is Rs:{order_total}")     
 print("Thank you for ordering from ordernow!")
 print("Visit again!")
+
